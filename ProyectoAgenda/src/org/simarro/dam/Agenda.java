@@ -10,7 +10,7 @@ package org.simarro.dam;
  * @author lliurex
  */
 public class Agenda {
-    //Hola 
+    //Hola soc alex
     int anyo;
 
     public Agenda() {
